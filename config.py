@@ -1,0 +1,3 @@
+BOT_TOKEN = "6456722131:AAGBaGco-bryxF5Lkkk9-3P5FRu4T1DecoU"
+BOT_NAME = "Elysia"
+DEVELOPER = "Neeraj R Varma"
